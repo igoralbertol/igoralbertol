@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Aprendendo HTML, CSS, Javascript
+- 🌱 Cursando Sistemas para Internet
 - 📫 Entre em contato comigo no email: igoralberto412@gmail.com
 - 😄 Pronouns: ele/dele
 
