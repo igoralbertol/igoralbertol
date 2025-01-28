@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 Cursando Sistemas para Internet
+- 🌱 Cursando Desenvolvimento de Sistemas
 - 📫 Entre em contato comigo no email: igoralberto412@gmail.com
 - 😄 Pronouns: ele/dele
 
