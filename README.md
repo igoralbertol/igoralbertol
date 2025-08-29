@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🌱 Cursando Desenvolvimento de Sistemas
-- 📫 Entre em contato comigo no email: iaalds12@gmail.com
+- 📫 Entre em contato comigo no email: igoralberto412@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
